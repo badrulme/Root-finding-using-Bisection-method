@@ -1,5 +1,5 @@
 
-## Root-finding-using-Bisection-method
+## Root finding using Bisection method
 
 f(x)= x3-2x+5=0 <br>
 Solution: <br>
