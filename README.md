@@ -129,4 +129,4 @@ return 0;
 ![bisection-method-solve-with-c-program-output](https://user-images.githubusercontent.com/15130238/50550170-ee0c7e00-0c94-11e9-873e-0eba0d160f19.png)
 
 ##
-For any kind of information: [fb.com/badrul.me](https://www.facebook.com/badrul.me)
+For any kind of information: [fb.com/badrul.me](https://www.facebook.com/badrul.me), hridoyjbd@gamil.com, Skype: hridoyjbd
